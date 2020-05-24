@@ -4,12 +4,20 @@
   "description": "A utility package to add the tailwind preflight styles to styled-components",
   "typings": "index.d.ts",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleboatdigital/tailwind-preflight-styled-components"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "bugs": {
+    "url":  "https://github.com/littleboatdigital/tailwind-preflight-styled-components/issues"
+  },
+  "author": "Ste O'Neill",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "styled-components": "^5.1.0"
   }
 }
+
