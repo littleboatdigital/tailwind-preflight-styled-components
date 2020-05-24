@@ -1,9 +1,9 @@
 {
   "name": "tailwind-styled-resets",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A utility package to add the tailwind preflight styles to styled-components",
   "typings": "index.d.ts",
-  "main": "index.js",
+  "main": "./src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/littleboatdigital/tailwind-preflight-styled-components"
