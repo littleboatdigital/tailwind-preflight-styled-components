@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-styled-resets",
+  "version": "0.0.1",
+  "description": "A utility package to add the tailwind preflight styles to styled-components",
+  "typings": "index.d.ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "styled-components": "^5.1.0"
+  }
+}
